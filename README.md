@@ -120,6 +120,8 @@ A middleware security layer that protects AI conversations from prompt injection
 
 ## 🐍 Contribution Snake
 
+*Watch the snake devour my daily GitHub contributions* 🟣
+
 <img src="https://raw.githubusercontent.com/ayushbelwal26/ayushbelwal26/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
