@@ -23,6 +23,16 @@
 
 <div align="center">
 
+## 🏅 Highlights & Achievements
+
+</div>
+
+- 🥈 **2nd Place**, Claw and Shield Hackathon @ Tryst, IIT Delhi — Frontend Developer
+
+---
+
+<div align="center">
+
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushbelwal26)
@@ -92,29 +102,9 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushbelwal26&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1" />
-
-</div>
-
----
-
-<div align="center">
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ayushbelwal26&limit=5&theme=radical&combine_all_yearly_contributions=true" width="80%" />
 
 </div>
 
