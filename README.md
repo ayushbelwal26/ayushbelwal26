@@ -1,66 +1,6 @@
-[README.md](https://github.com/user-attachments/files/30846993/README.md)
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Ayush+%F0%9F%91%8B;Web+Developer+%7C+DSA+Enthusiast;Building+Full-Stack+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-ooooooooooooooooooooooooooo**#M*apZUrxCULQUYYLYXzzYmLc&$$$$$$@B%&WM*oooooooooooooooooooooooooooooooo
-ooooooooooooooooooooooo*##*apCxf}~-~:)zzCCXXXJXzvzYZLX8$$$$$$$$$$$$$B%&M#*oooooooooooooooooooooooooo
-oooooooooooooooooooo*##hZY\][l;_lI+!;tczCLQZmppddao**o8@@@@@@$$$$$$$$$$$$%&M#ooooooooooooooooooooooo
-ooooooooooooooooo*##bCr_l~;l+;;l,,:,!YmkaoaaoM8@@@BB%BB@@@B%BBB$$$$$$$$$$$$$$B8M*ooooooooooooooooooo
-oooooooooooooo*##kCt~I!,:I,:I,:I:~r0qhW%%&WW&BB%W###8$$$@%%B@B8@@@$$$$$$$$$$$$$$@8M*oooooooooooooooo
-oooooooooooo*#*mr+:;,,:":l,I!,!1nZk**oooo#%@%M#W8%%8%@$B*o%@$$@@@@@@$$$$$$$$$$$$$$$B&*oooooooooooooo
-oooooooooo*#oL{!I,I!,II"ll"l!,-rq##Moahh#%@&a#**8B@$@@$%8B@$@@$$@@@@@$$$$$$$$$$$$$$$$$8#oooooooooooo
-oooooooo*#oU}i:ii,ll"I;^II"I;~UM&MW&%%#khM%%B@%&8B@$$$$$$$$$@@@@@$$$$$$$$$$$$$$$$$$$$$$$%#oooooooooo
-ooooooo**01:l~:!!,II^,"`""^;;t*&%%88@@BBB@$$$$$$$$$@@$$$$$$$@@@@@$$$$$$$$$$$$$$$$$$$$$$$$$%*oooooooo
-ooooo*#d|!!;ll";:^,,^:,"iI:+;I1ZB@@@@$$$$$$$B8&&%88Woaaoo*#8@@@@$@$$@@$$$$$$$$$$$$$$$$$$$$$$&ooooooo
-oooo**U_,II,Il,!l:~l"!:^I,^,^iY&@@@B%%@@B8WadZLLQQCYvnnvcccQM$$@$$$B%B$$$$$$$$$$$$$$$$$$$$$$$B#ooooo
-ooo#a/I!;~~:++:iI":"`^'`,^,!"]upBB%%%B@8*kmCzrt\\/\(}[[}{11|vq8$@$$@B$$$$$$$$$$$$$$$$$$$$$$$$$$Woooo
-oo#d|;i+;!l";:":"^I""l^"I^",''`~#@@@@B%Md0zj([----_~!II!i~++-[rq%@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$8ooo
-o#w?l;II,II,!l:i;";`'^.'`'^,`:,.\%@B%*w0Jr)]+~ii!l!+[/cLQCYj1[[(b@@*o@$$$$$$$$$$$$$$$$$$$$$$$$$$$%oo
-#p+I~Ii~;~!,I,",``"``"',:':,'"' 'n&BpvnvULCCCCvr1][tU0wqOQJcj(}]cM0)|Y%$$$$$$$$$$$$$$$$$$$$$$$$$$$%o
-k};!i:I;";:"I,,!,";```.''.``'".'^ |Mq/jczcJmddmCz{_fJOpd*Zu0c)_+]zx}[)C$$$$$$$$$$$$$$$$$$$$$$$$$$$$8
-1::Il:!l:il,l,",`'`.''.^`I"'`...:{Yhn|/nmLk#mqwzl ;(vYXzxt)l"":~1nj_iO$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-I~Il!:I;":"^,^":`"".``.`'.'..' .._f)xn)\xXcvvur\-"  `::::,^. ."I?\}{+/B$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-;l,:;";;,!:,l"",'`'.'..`'`,.`^ . :(1tt[]++~il;;I:'.',^`"^`'`^:l-))!,\&$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-;l:I!,I;":"",`":`,".^'.`..' .. '. ))tj1?~I,"":!_\{~[vx(~;li~_]{)(rtY8$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-:;,,:"::,l:;l"::'`' . .' `^ ^` '..qq11){[?+~~+_\XXvczu{ll+][[{1)/M$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-:I:Il:lI,I"",`""'"`'^.'`.'' .  ' :Mo\))|(|)}}1/tt/\(}[}(nc/]]}1(cB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-:I:::",,,;,:I";,`^'.. .. `'.^.'` +Bk/ttu/\|1{xcj[[iI;;;Il::~1|txYB$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-:;,;l,I;,;""" `"`'""''^.''.`'.. .. ($ptjjXrt\|1+!~___?[?_+l;I_/nYnt#$@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-:I,,,":":":I";,`"'.. ...`''^.'' u$m/jrXnxjjt|]_~+~!!I,,:l-fYQU/)Z$@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-,;,;I,l;,;",,`^``^''`.`''`... .. Q$mtfrXnunnnnr|}-+-[[]{\xUQQUj)}/M$$@%%$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-:I:::",",",";:^;"`^'.. ..'`.``.`.'b$0tjrznvnnccczcvuuvcXJLQLCXj)[?-/Ywbo0xYYO*@$$$$$$$$$$$$$$$$$$$$$$
-,;,:;,l:,;",""`^'`^`^`.`''`... . IM$LtjxXuvnnvczzcccvvczYYYYvj|1[-+il+l~)]???{fz0d*&@$$$$$$$$$$$$$$$$
-:I,:,",";":,",^"''. . ''.```,`18BUfjnznuUUvccccvxf//tjjrrf\(1[_iI;!''-{{}[]]??][)/xYma&@$$$$$$$$$$
-,:,;;,I,,:^"^`^'``'^``,,;l!+_]}{LB8YjrnXcq&0vvvvvnj\)1)|///\|(1]_iI:Il)||1[}}[[]]]]]??][)fvLqo&B$$$$
-:I,:,","",",":II!~+-]})(\ttfjjjtp@%XjxcCUoJJcvvvuxr/){1)|\/\/\){?~I;-(\({[[}}}}[[[}}}}}}[[[][})tuQW$
-,;:;II!i+_?}1(\tfrnnnxxjf/|)}]_~q*mcvvULY0vJzvvcXzur/))(\/tjf|}_i!~]{{11{}}}}}{{1111)11{}}}}[})}]?1z
-)?[1|/frnuczzcunxj/)}]-~!lI,^^,+ucYYuXJLJJvvXnrvULCzxftttt/)+Ii])\\|(\))1{{{{{11111)))(()1{1\f\(((1}
-bcvzXzcvnrt|1[-+!l:,^^```^":i}/nXJXnuYYYCLUcuu)})fuuxrrft|[~?n0ZQXurn/(){}}{{111)(((|/fjftfxxrxunxjz
-*dj(1]-_il::,"""^^`````^:+1trxvYYcxxuXXzcYJCzvx1}]?}1)1{}[tuL0Oq0Ucrj/(11{{{{}{)|\||txnuncYzczzXYXJa
-o#Q!,::,,,",",::,"^^`"l?(frnnvXzcuxnvcXXzXYXYXUJUv(-_++++(LCOmwQXzxr/|1111{}[}1)\t//rvvvzUUYYUUJU0a*
-oo#0~,;::;;;:;;:,""^I](trxnnnvzXYvuccXXYUU0ZQOZUXYc-llll!v0XX0QXvuvr/|())11{{1)(/ffjvccXUYJCUUCJOo*o
-ooo#q[",::;I;:::::",]//trxnnuuvXYXuvcczYYJCUObdwqwZ0v_lII}0ZZm0zczXnr//\(()))))(\tjjxYYYCUQ0QCL0wo*oo
-oooo#aj;:III;;;;::)nucuxnvccvcYYzuuuvcXYYJLUQkkdpwmOY[~_cpbwOcXUXvxjt/\\(()(|\/tjvunCQQ0QqZ00qk**ooo
-ooooo*#Q]:IlIIII:[uczJLYcczYYzYYcnnuuvXXXYJLYUmbbbpqqZ/xmbmJXUQJYuxrrrjf/\|\/tfjrzzu0Zwmkbpwbo*ooooo
-ooooooo#av~:IIII!fzYYCOQJYXYJYYYcnuvuvzzzzXJLXvJwbawLLc0qLzYQQQLzxxxxnxrf\\trrrxuYJcmphk*oaa**oooooo
-oooooooo*#dri:;;?cULCCZw0CJJLCUJvuvvuvvccczXUCXnvUZdkoYzJU0wLZOcxnvvvunrjt/fxnucXULUmho**#**oooooooo
-oooooooooo*#dn+:|YL0Z0Qqbm0LC0LLcvccvvvvvvccczXvrfjxcJCj0pmQqwznvzzzcvuuxjfxucXYYUQ00o##oooooooooooo
-oooooooooooo*#kYzUQOwdOmbhqZ0ZZQzJLUzzcvunuvvvccvnjt/jzrfzXqmXvcXYXYXzvunrrxcXUUUUQwqo*ooooooooooooo
-oooooooooooooo*#*kqmwbkqda*kkqmCLpmQJYzzvuunuczYYYYULZ0UQUb0UXXXYYYYYXzcunxncUUUJOdo*ooooooooooooooo
-ooooooooooooooooo**ohha*khWWM*ZQdkm0QJUYXzzczYJL0ZqbhadmdpwCUYYYYYXXXzzcvvunvU0qh***oooooooooooooooo
-oooooooooooooooooooo**o**a*8%@*hakpwZ0LLCJJJL0ZwpbhaahmOqqQJCJUUUUYXzzcvczU0pa***ooooooooooooooooooo
-ooooooooooooooooooooooooo*o*W8&*akkdwO0OOOOZmqpdbkaaapC0mQUCLLCJJCUXXULmdh****oooooooooooooooooooooo
-oooooooooooooooooooooooooooooooooooahbpwwwwwqpdbbhaoohLJO0UYULLQ0mqdbho****oooooooooooooooooooooooooo
-oooooooooooooooooooooooooooooooooo***oooaahhhhaaoo**bZmwqqdkhao*******oooooooooooooooooooooooooooooo
-```
 
 </div>
 
