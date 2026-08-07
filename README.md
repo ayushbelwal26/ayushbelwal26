@@ -122,7 +122,7 @@ A middleware security layer that protects AI conversations from prompt injection
 
 *Watch the snake devour my daily GitHub contributions* 🟣
 
-<img src="https://raw.githubusercontent.com/ayushbelwal26/ayushbelwal26/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/ayushbelwal26/ayushbelwal26/output/ayushbelwal26-snake.svg" width="90%" />
 
 </div>
 
