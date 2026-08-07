@@ -25,9 +25,24 @@
 
 ## 🏅 Highlights & Achievements
 
+| Event | Role | Result |
+|---|---|---|
+| 🏛️ Claw & Shield Hackathon, Tryst (IIT Delhi) | Frontend Developer | 🥈 2nd Place |
+
 </div>
 
-- 🥈 **2nd Place**, Claw and Shield Hackathon @ Tryst, IIT Delhi — Frontend Developer
+---
+
+<div align="center">
+
+## 🚀 Projects
+
+</div>
+
+### 🔐 [SecureAI](https://secureai-ayym.onrender.com/)
+A middleware security layer that protects AI conversations from prompt injection, credential leaks, and unauthorized agent actions — using a 5-layer detection pipeline and cryptographically verifiable (Merkle tree) audit logs.
+**Tech:** Next.js · React · Cryptographic Hashing (SHA-256) · OpenRouter API · Three.js
+🔗 [Live Demo](https://secureai-ayym.onrender.com/) · [GitHub Repo](https://github.com/ayushbelwal26/SecureAI-Workspace)
 
 ---
 
@@ -37,6 +52,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushbelwal26)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushbelwal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayushbelwal26)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialworkayush26@gmail.com)
 
 </div>
@@ -72,6 +88,16 @@
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧩 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/ayushbelwal26?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" />
 
 </div>
 
