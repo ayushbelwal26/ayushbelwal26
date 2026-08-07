@@ -12,9 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ayushbelwal26
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/ayushbelwal26-snake.svg
           color_snake: '#c724b1,#8957e5,#6a3ec4'
-          color_dots: '#252525,#4c1d5c,#7e2ea3,#a83fc9,#d94ff0'
+          color_dots: '#0d1117,#4c1d5c,#7e2ea3,#a83fc9,#d94ff0'
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
