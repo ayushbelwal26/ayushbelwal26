@@ -1,21 +1,33 @@
-name: generate snake
+name: Generate Snake Animation
+
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch: {}
+    - cron: "0 */12 * * *" 
+  workflow_dispatch: 
   push:
-    branches: [ main ]
+    branches:
+      - main
+
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ayushbelwal26
-          outputs: dist/ayushbelwal26-snake.svg
-          color_snake: '#c724b1,#8957e5,#6a3ec4'
-          color_dots: '#0d1117,#4c1d5c,#7e2ea3,#a83fc9,#d94ff0'
-      - uses: crazy-max/ghaction-github-pages@v3
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2310b981&color_dots=%23ebedf0,%23a7f3d0,%2334d399,%2310b981,%23065f46
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2310b981&color_dots=%23161b22,%23064e3b,%23065f46,%2310b981,%2334d399
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
